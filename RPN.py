@@ -40,3 +40,4 @@ def get_data():
 
 get_data()
 
+print("hello")
