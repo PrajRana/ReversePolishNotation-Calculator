@@ -34,7 +34,7 @@ def get_data():
                         print("invalid operand")
                     hold_data.append(total)
                     print("all data:", hold_data)
-            hold_data.pop()  # empties the stack for another to store data from another line
+            hold_data.pop()  # empties the stack for another RPN to store data from another line
     # return hold_data
 
 
